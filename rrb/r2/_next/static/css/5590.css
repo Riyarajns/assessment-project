@@ -1,0 +1,277 @@
+.personalized-text_msgOnCakeWrapper__1Xwjy {
+    padding: 0;
+    position: relative;
+    margin-top: 12px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root {
+    width: 100%
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root .MuiFormLabel-root {
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 4px;
+    padding-right: 4px;
+    top: -6px;
+    color: #555
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root .MuiFormLabel-root.Mui-focused,
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root .MuiFormLabel-root.MuiFormLabel-filled {
+    background: #fff;
+    top: 0
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root .MuiInputBase-input {
+    width: 100%;
+    margin: 0;
+    height: 44px;
+    line-height: .14;
+    border: 1px solid #d5d5d5;
+    background-color: #fff;
+    border-radius: 4px;
+    display: inline-block;
+    -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, .2);
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, .2);
+    font-size: 16px;
+    font-weight: 400;
+    color: #222;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root fieldset {
+    display: none
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .personalized-text_characterCount__2XJR_ {
+    right: 8px;
+    bottom: 5px;
+    position: absolute;
+    font-size: 12px;
+    color: #555;
+    z-index: 1
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .personalized-text_characterCount__2XJR_.personalized-text_long-text__3pN6R {
+    top: 63px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_invalidInputNoShadow__14uzb {
+    border: 1px solid #e03131;
+    border-radius: 4px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root.multiline-textfield .MuiFormLabel-root {
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 4px;
+    padding-right: 4px;
+    top: -6px;
+    color: #555
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root.multiline-textfield .MuiFormLabel-root.Mui-focused,
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root.multiline-textfield .MuiFormLabel-root.MuiFormLabel-filled {
+    background: #fff;
+    top: 0;
+    font-size: 14px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root.multiline-textfield .MuiInputBase-root {
+    padding: 0
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root.multiline-textfield .MuiInputBase-root .MuiInputBase-input {
+    width: 100%;
+    margin: 0;
+    height: 82px;
+    line-height: 20px;
+    border: 1px solid #d5d5d5;
+    background-color: #fff;
+    border-radius: 4px;
+    display: inline-block;
+    -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, .2);
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, .2);
+    font-size: 16px;
+    font-weight: 400;
+    color: #222;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: .5rem
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy .MuiFormControl-root.multiline-textfield fieldset {
+    display: none
+}
+
+.personalized-text_errorText__glhv5 {
+    font-size: 12px;
+    color: #e03131;
+    -webkit-text-fill-color: #e03131;
+    margin: 5px 0
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 {
+    width: 48%;
+    margin-top: 0
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .personalized-text_characterCount__2XJR_ {
+    right: 14px;
+    bottom: 5px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root {
+    border-radius: 4px;
+    border: 1px solid #999;
+    -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .1);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, .1);
+    width: 100%
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root.animate {
+    -webkit-box-shadow: 0 0 10px #ff9212;
+    box-shadow: 0 0 10px #ff9212;
+    border: 1px solid #ff9212;
+    border-radius: 4px;
+    -webkit-animation: focuses 1.5s ease-in-out infinite;
+    -moz-animation: focuses 1.5s ease-in-out infinite;
+    animation: focuses 1.5s ease-in-out infinite
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root .MuiFormLabel-root {
+    font-weight: 300;
+    top: -2px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root .MuiFormLabel-root.Mui-focused,
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root .MuiFormLabel-root.MuiFormLabel-filled {
+    top: 0;
+    font-size: 14px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root .MuiInputBase-input {
+    border-radius: 4px;
+    border: 0;
+    background: #fff;
+    -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .1);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, .1);
+    display: inline-block;
+    width: 100%;
+    max-height: 50px;
+    min-height: 50px;
+    line-height: 16px;
+    padding: 8px 8px 10px 10px;
+    font-size: 16px;
+    font-weight: 400;
+    z-index: 0;
+    color: rgba(0, 0, 0, .75);
+    position: relative;
+    overflow: visible;
+    outline: medium none;
+    font-size: 14px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6 .MuiFormControl-root .MuiInputBase-root.MuiOutlinedInput-multiline {
+    padding: 0
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_validInput__2c_Wu .MuiFormControl-root {
+    border-radius: 4px;
+    border: 1px solid #999;
+    -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+    -webkit-animation: none;
+    -moz-animation: none;
+    animation: none;
+    width: 100%
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_animate__4yCdy {
+    -webkit-animation: personalized-text_focuses__33BBt 1.5s ease-in-out infinite;
+    -moz-animation: personalized-text_focuses__33BBt 1.5s ease-in-out infinite;
+    animation: personalized-text_focuses__33BBt 1.5s ease-in-out infinite;
+    border-radius: 4px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_animate__4yCdy .MuiFormControl-root {
+    border: 1px solid #ff9212;
+    border-radius: 4px
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_invalidInputNoShadow__14uzb {
+    border: none
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_invalidInputNoShadow__14uzb .MuiFormControl-root {
+    box-shadow: 0 0 10px #e03131;
+    border: 1px solid #e03131;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 0 10px #e03131
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_invalidInputNoShadow__14uzb.personalized-text_animate__4yCdy .MuiFormControl-root {
+    -webkit-animation: none;
+    -moz-animation: none;
+    animation: none
+}
+
+.personalized-text_msgOnCakeWrapper__1Xwjy.personalized-text_desktopMsgOnCake__3g3J6.personalized-text_disableSelectInput__3Gy3P.personalized-text_animate__4yCdy .MuiFormControl-root {
+    -webkit-animation: none;
+    -moz-animation: none;
+    animation: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid #999
+}
+
+@-webkit-keyframes personalized-text_focuses__33BBt {
+    0% {
+        -webkit-box-shadow: 0 0 10px #ff9212;
+        box-shadow: 0 0 10px #ff9212
+    }
+    50% {
+        -webkit-box-shadow: 0 0 0 #ff9212;
+        box-shadow: 0 0 0 #ff9212
+    }
+    to {
+        -webkit-box-shadow: 0 0 10px #ff9212;
+        box-shadow: 0 0 10px #ff9212
+    }
+}
+
+@-moz-keyframes personalized-text_focuses__33BBt {
+    0% {
+        -webkit-box-shadow: 0 0 10px #ff9212;
+        box-shadow: 0 0 10px #ff9212
+    }
+    50% {
+        -webkit-box-shadow: 0 0 0 #ff9212;
+        box-shadow: 0 0 0 #ff9212
+    }
+    to {
+        -webkit-box-shadow: 0 0 10px #ff9212;
+        box-shadow: 0 0 10px #ff9212
+    }
+}
+
+@keyframes personalized-text_focuses__33BBt {
+    0% {
+        -webkit-box-shadow: 0 0 10px #ff9212;
+        box-shadow: 0 0 10px #ff9212
+    }
+    50% {
+        -webkit-box-shadow: 0 0 0 #ff9212;
+        box-shadow: 0 0 0 #ff9212
+    }
+    to {
+        -webkit-box-shadow: 0 0 10px #ff9212;
+        box-shadow: 0 0 10px #ff9212
+    }
+}
+
+/*# sourceMappingURL=5590.css.map*/

@@ -1,0 +1,310 @@
+{
+    "topCountries": [
+        {
+            "catalogID": "usa",
+            "name": "USA"
+        },
+        {
+            "catalogID": "uk",
+            "name": "UK"
+        },
+        {
+            "catalogID": "australia",
+            "name": "Australia"
+        },
+        {
+            "catalogID": "canada",
+            "name": "Canada"
+        },
+        {
+            "catalogID": "singapore",
+            "name": "Singapore"
+        },
+        {
+            "catalogID": "uae",
+            "name": "UAE"
+        }
+    ],
+    "countryList": [
+        {
+            "catalogID": "india",
+            "name": "India"
+        },
+        {
+            "catalogID": "usa",
+            "name": "USA"
+        },
+        {
+            "catalogID": "uk",
+            "name": "UK"
+        },
+        {
+            "catalogID": "uae",
+            "name": "UAE"
+        },
+        {
+            "catalogID": "australia",
+            "name": "Australia"
+        },
+        {
+            "catalogID": "canada",
+            "name": "Canada"
+        },
+        {
+            "catalogID": "singapore",
+            "name": "Singapore"
+        },
+        {
+            "catalogID": "philippines",
+            "name": "Philippines"
+        },
+        {
+            "catalogID": "germany",
+            "name": "Germany"
+        },
+        {
+            "catalogID": "new-zealand",
+            "name": "New Zealand"
+        },
+        {
+            "catalogID": "argentina",
+            "name": "Argentina"
+        },
+        {
+            "catalogID": "austria",
+            "name": "Austria"
+        },
+        {
+            "catalogID": "bahrain",
+            "name": "Bahrain"
+        },
+        {
+            "catalogID": "bangladesh",
+            "name": "Bangladesh"
+        },
+        {
+            "catalogID": "belgium",
+            "name": "Belgium"
+        },
+        {
+            "catalogID": "brazil",
+            "name": "Brazil"
+        },
+        {
+            "catalogID": "bulgaria",
+            "name": "Bulgaria"
+        },
+        {
+            "catalogID": "chile",
+            "name": "Chile"
+        },
+        {
+            "catalogID": "china",
+            "name": "China"
+        },
+        {
+            "catalogID": "colombia",
+            "name": "Colombia"
+        },
+        {
+            "catalogID": "croatia",
+            "name": "Croatia"
+        },
+        {
+            "catalogID": "denmark",
+            "name": "Denmark"
+        },
+        {
+            "catalogID": "egypt",
+            "name": "Egypt"
+        },
+        {
+            "catalogID": "finland",
+            "name": "Finland"
+        },
+        {
+            "catalogID": "france",
+            "name": "France"
+        },
+        {
+            "catalogID": "greece",
+            "name": "Greece"
+        },
+        {
+            "catalogID": "greenland",
+            "name": "Greenland"
+        },
+        {
+            "catalogID": "guam",
+            "name": "Guam"
+        },
+        {
+            "catalogID": "guyana",
+            "name": "Guyana"
+        },
+        {
+            "catalogID": "haiti",
+            "name": "Haiti"
+        },
+        {
+            "catalogID": "hong-kong",
+            "name": "Hong Kong"
+        },
+        {
+            "catalogID": "hungary",
+            "name": "Hungary"
+        },
+        {
+            "catalogID": "indonesia",
+            "name": "Indonesia"
+        },
+        {
+            "catalogID": "ireland",
+            "name": "Ireland"
+        },
+        {
+            "catalogID": "israel",
+            "name": "Israel"
+        },
+        {
+            "catalogID": "italy",
+            "name": "Italy"
+        },
+        {
+            "catalogID": "japan",
+            "name": "Japan"
+        },
+        {
+            "catalogID": "jordan",
+            "name": "Jordan"
+        },
+        {
+            "catalogID": "kenya",
+            "name": "Kenya"
+        },
+        {
+            "catalogID": "korea",
+            "name": "Korea"
+        },
+        {
+            "catalogID": "kuwait",
+            "name": "Kuwait"
+        },
+        {
+            "catalogID": "lebanon",
+            "name": "Lebanon"
+        },
+        {
+            "catalogID": "macau",
+            "name": "Macau"
+        },
+        {
+            "catalogID": "malaysia",
+            "name": "Malaysia"
+        },
+        {
+            "catalogID": "mauritius",
+            "name": "Mauritius"
+        },
+        {
+            "catalogID": "mexico",
+            "name": "Mexico"
+        },
+        {
+            "catalogID": "morocco",
+            "name": "Morocco"
+        },
+        {
+            "catalogID": "nepal",
+            "name": "Nepal"
+        },
+        {
+            "catalogID": "netherlands",
+            "name": "Netherlands"
+        },
+        {
+            "catalogID": "norway",
+            "name": "Norway"
+        },
+        {
+            "catalogID": "oman",
+            "name": "Oman"
+        },
+        {
+            "catalogID": "pakistan",
+            "name": "Pakistan"
+        },
+        {
+            "catalogID": "poland",
+            "name": "Poland"
+        },
+        {
+            "catalogID": "portugal",
+            "name": "Portugal"
+        },
+        {
+            "catalogID": "qatar",
+            "name": "Qatar"
+        },
+        {
+            "catalogID": "romania",
+            "name": "Romania"
+        },
+        {
+            "catalogID": "russia",
+            "name": "Russia"
+        },
+        {
+            "catalogID": "saudi-arabia",
+            "name": "Saudi Arabia"
+        },
+        {
+            "catalogID": "south-africa",
+            "name": "South Africa"
+        },
+        {
+            "catalogID": "spain",
+            "name": "Spain"
+        },
+        {
+            "catalogID": "sri-lanka",
+            "name": "Sri Lanka"
+        },
+        {
+            "catalogID": "sweden",
+            "name": "Sweden"
+        },
+        {
+            "catalogID": "switzerland",
+            "name": "Switzerland"
+        },
+        {
+            "catalogID": "taiwan",
+            "name": "Taiwan"
+        },
+        {
+            "catalogID": "thailand",
+            "name": "Thailand"
+        },
+        {
+            "catalogID": "turkey",
+            "name": "Turkey"
+        },
+        {
+            "catalogID": "ukraine",
+            "name": "Ukraine"
+        },
+        {
+            "catalogID": "vietnam",
+            "name": "Vietnam"
+        },
+        {
+            "catalogID": "zambia",
+            "name": "Zambia"
+        },
+        {
+            "catalogID": "zimbabwe",
+            "name": "Zimbabwe"
+        }
+    ]
+}
